@@ -19,5 +19,6 @@ Dit is de repository waar alle opdrachten van FRO live op komen te staan.
 
 ## Contributer(s)
 
-- Jaymar E. Westerlow - <jaywesterlow71@gmail.com>
-- Kaan Seçen - <24114@ma-web.nl>
+- Jaymar E. Westerlow   - <jaywesterlow71@gmail.com>
+- Remy Duivesteijn      - <30528@ma-web.nl>
+- Kaan Seçen            - <24114@ma-web.nl>
